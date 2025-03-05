@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OG Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>OG Profile</h1>
+        
+        <!-- Profile Logo Upload -->
+        <section>
+            <h2>Profile Logo</h2>
+            <input type="file" id="logoUpload" accept="image/*">
+            <div id="logoPreview"></div>
+        </section>
+
+        <!-- Connected Sites -->
+        <section>
+            <h2>Connected Sites</h2>
+            <p>Currently connected: <span id="connectedSite">None</span></p>
+            <input type="text" id="siteInput" placeholder="e.g., ognetwork" disabled>
+            <button id="connectBtn" disabled>Connect (ognetwork only)</button>
+        </section>
+
+        <!-- Site Verification -->
+        <section>
+            <h2>Verify ognetwork</h2>
+            <p>1. Post your public key on ognetwork.</p>
+            <p>2. Screenshot it and upload below.</p>
+            <p>3. Delete the post after uploading.</p>
+            <p><a href="#" id="generateKeyLink">Need a public key? (Generate one)</a></p>
+            <input type="file" id="screenshotUpload" accept="image/*">
+            <div id="screenshotPreview"></div>
+            <button id="verifyBtn">Verify</button>
+            <p id="verifyStatus">Status: Not verified</p>
+        </section>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
