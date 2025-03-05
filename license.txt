@@ -1,0 +1,23 @@
+## LICENSE  
+
+Copyright (C) 2025 WebOG  
+
+All rights reserved. WebOG is proprietary software developed and owned by [N0tLuck0xF]. This software is licensed, not sold.  
+
+### Permitted Use:  
+- Developers and third parties may create similar platforms inspired by WebOG.  
+- However, direct replication or excessive duplication of WebOG’s core features, systems, or UI elements is strictly prohibited.  
+- Any integration, modification, or extension of WebOG must receive explicit written permission from the owner.  
+
+### Restrictions:  
+- Redistribution, modification, decompilation, or reverse engineering of WebOG without authorization is prohibited.  
+- Platforms that excessively mimic WebOG’s proprietary systems, branding, or unique functionality may face legal action.  
+- The WebOG name, trademarks, and core design elements cannot be used without prior approval.  
+
+By using WebOG, you agree to abide by the terms set forth in this license.  
+
+For licensing inquiries, contact [bitoutlaws@gmail.com].  
+
+---
+
+This version ensures WebOG remains unique while allowing others to build similar platforms without directly copying too much. Let me know if you'd like any changes! 🚀
